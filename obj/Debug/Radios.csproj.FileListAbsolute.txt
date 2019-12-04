@@ -1,0 +1,22 @@
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\bin\Debug\Radios.exe.config
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\bin\Debug\Radios.exe
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\bin\Debug\Radios.pdb
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.csprojAssemblyReference.cache
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Game_Consoles.CreateObject.resources
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Game_Consoles.MainForm.resources
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.Properties.Resources.resources
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.csproj.GenerateResource.cache
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.csproj.CoreCompileInputs.cache
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.exe
+C:\Users\Victor\YandexDisk\2 семестр\Графика\Курсач\Radios2\Radios\obj\Debug\Radios.pdb
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\bin\Debug\Radios.exe.config
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\bin\Debug\Radios.exe
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\bin\Debug\Radios.pdb
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.csprojAssemblyReference.cache
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Game_Consoles.CreateObject.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Game_Consoles.MainForm.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.Properties.Resources.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.csproj.GenerateResource.cache
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.csproj.CoreCompileInputs.cache
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.exe
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2\Radios\obj\Debug\Radios.pdb

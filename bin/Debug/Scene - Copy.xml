@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scene>
+  <cameras>
+    <camera name="Camera">
+      <central-projection>true</central-projection>
+      <position x="0,00" y="110,25" z="-184,50" />
+      <target x="0,00" y="0,00" z="200,00" />
+      <clipping-planes near="10" far="500" />
+      <fov>90</fov>
+    </camera>
+  </cameras>
+  <objects>
+    <console-object name="1">
+      <second-screen-diagonal>55,00</second-screen-diagonal>
+      <manipulator-radius>3,00</manipulator-radius>
+      <manipulator-base-radius>5,00</manipulator-base-radius>
+      <cylinders-height>2,50</cylinders-height>
+      <cylinders-radius>2,50</cylinders-radius>
+      <cross-button-size>5,00</cross-button-size>
+      <volume-space>1,00</volume-space>
+      <frame-thickness>1,00</frame-thickness>
+      <brightness-bottom-position>15,00</brightness-bottom-position>
+      <card-reader-width>15,00</card-reader-width>
+      <card-readers-count>1</card-readers-count>
+      <indicators-count>3</indicators-count>
+      <position x="20,00" y="20,00" z="20,00" />
+      <rotate x="0" y="0" z="0" />
+      <scale x="1,00" y="1,00" z="1,00" />
+    </console-object>
+    <console-object name="2">
+      <second-screen-diagonal>55,00</second-screen-diagonal>
+      <manipulator-radius>3,00</manipulator-radius>
+      <manipulator-base-radius>5,00</manipulator-base-radius>
+      <cylinders-height>2,50</cylinders-height>
+      <cylinders-radius>2,50</cylinders-radius>
+      <cross-button-size>5,00</cross-button-size>
+      <volume-space>1,00</volume-space>
+      <frame-thickness>1,00</frame-thickness>
+      <brightness-bottom-position>15,00</brightness-bottom-position>
+      <card-reader-width>15,00</card-reader-width>
+      <card-readers-count>1</card-readers-count>
+      <indicators-count>3</indicators-count>
+      <position x="0,00" y="0,00" z="0,00" />
+      <rotate x="0" y="0" z="0" />
+      <scale x="1,00" y="1,00" z="1,00" />
+    </console-object>
+  </objects>
+</scene>

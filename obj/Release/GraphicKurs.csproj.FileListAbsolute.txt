@@ -1,0 +1,10 @@
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\bin\Release\Radios.exe.config
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\bin\Release\Radios.exe
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\bin\Release\Radios.pdb
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\GraphicKurs.CreateObject.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\GraphicKurs.MainForm.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\Radios.Properties.Resources.resources
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\GraphicKurs.csproj.GenerateResource.cache
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\GraphicKurs.csproj.CoreCompileInputs.cache
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\Radios.exe
+D:\!!!!ИнстЛАбы\2019,2\графика\курсач\мое\Radios2 — копия\Radios\obj\Release\Radios.pdb

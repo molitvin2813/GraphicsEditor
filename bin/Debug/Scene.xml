@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scene ViewMode="SOLID">
+  <camera>
+    <central-projection>true</central-projection>
+    <position x="115.18" y="111.84" z="-119.27" />
+    <target x="0.00" y="0.00" z="0.00" />
+    <clipping-planes near="10" far="1000" />
+    <fov>90</fov>
+  </camera>
+  <light>
+    <position x="0.00" y="150.00" z="-150.00" />
+  </light>
+  <objects>
+    <Radio name="1">
+      <RightVolumeControllerStandRadius>10.00</RightVolumeControllerStandRadius>
+      <RightVolumeControllerWidestPartRadius>15.00</RightVolumeControllerWidestPartRadius>
+      <RightVolumeControllerStripeRadius>13.00</RightVolumeControllerStripeRadius>
+      <LeftVolumeControllerStandRadius>10.00</LeftVolumeControllerStandRadius>
+      <LeftVolumeControllerWidestPartRadius>15.00</LeftVolumeControllerWidestPartRadius>
+      <LeftVolumeControllerStripeRadius>13.00</LeftVolumeControllerStripeRadius>
+      <ControlButtonsHeight>5.00</ControlButtonsHeight>
+      <ControlButtonsWidth>7.00</ControlButtonsWidth>
+      <SphereCount>1</SphereCount>
+      <PlayBackButtonsCount>2</PlayBackButtonsCount>
+      <position x="30.00" y="0.00" z="0.00" />
+      <rotate x="20" y="0" z="0" />
+      <scale x="1.00" y="1.00" z="1.00" />
+    </Radio>
+    <Radio name="2">
+      <RightVolumeControllerStandRadius>10.00</RightVolumeControllerStandRadius>
+      <RightVolumeControllerWidestPartRadius>15.00</RightVolumeControllerWidestPartRadius>
+      <RightVolumeControllerStripeRadius>13.00</RightVolumeControllerStripeRadius>
+      <LeftVolumeControllerStandRadius>10.00</LeftVolumeControllerStandRadius>
+      <LeftVolumeControllerWidestPartRadius>15.00</LeftVolumeControllerWidestPartRadius>
+      <LeftVolumeControllerStripeRadius>13.00</LeftVolumeControllerStripeRadius>
+      <ControlButtonsHeight>5.00</ControlButtonsHeight>
+      <ControlButtonsWidth>7.00</ControlButtonsWidth>
+      <SphereCount>1</SphereCount>
+      <PlayBackButtonsCount>2</PlayBackButtonsCount>
+      <position x="50.00" y="50.00" z="0.00" />
+      <rotate x="0" y="0" z="0" />
+      <scale x="1.00" y="1.00" z="1.00" />
+    </Radio>
+  </objects>
+</scene>

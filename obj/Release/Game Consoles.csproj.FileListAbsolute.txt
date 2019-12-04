@@ -1,0 +1,11 @@
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\bin\Release\Game Consoles.exe.config
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\bin\Release\Game Consoles.exe
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\bin\Release\Game Consoles.pdb
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game_Consoles.MainForm.resources
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game_Consoles.Properties.Resources.resources
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game Consoles.csproj.GenerateResource.cache
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game Consoles.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game Consoles.exe
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game Consoles.pdb
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game Consoles.csprojAssemblyReference.cache
+D:\YandexDisk\Учеба\Семестр 6\АиПГС\Курсовой проект\Game Consoles\Game Consoles\obj\Release\Game_Consoles.CreateObject.resources

@@ -1,0 +1,81 @@
+﻿using System.Drawing;
+using System.Collections.Generic;
+
+namespace GraphicKurs
+{
+    [System.Serializable]
+    public class BoxTriangle : Primitive
+    {
+        public double Width { get; private set; }
+        public double Height { get; private set; }
+        public double Length { get; private set; }
+
+        public BoxTriangle(Point3D basePoint, double width, double height, double length, Color color) : base(basePoint, color)
+        {
+            Width = width;
+            Height = height;
+            Length = length;
+            UpdatePoints();
+        }
+
+        protected virtual void UpdatePoints()
+        {
+            double x = Width / 2;
+            double z = Length / 2;
+
+            List<Point3D> points = new List<Point3D>();
+
+            points.Add(new Point3D(0, -x, -z)); // bottom
+            points.Add(new Point3D(0, -x, z));
+
+            points.Add(new Point3D(Height / 2, x, 0));
+            points.Add(new Point3D(Height / 2, x, 0));
+
+            points.Add(new Point3D(Height, -x, -z)); // top
+            points.Add(new Point3D(Height, -x, z));
+
+            points.Add(new Point3D(Height / 2, x, 0));
+            points.Add(new Point3D(Height / 2, x, 0));
+
+            Faces.Clear();
+            Faces.Add(new Face(new Point3D[] { points[7], points[4], points[0] }));
+            Faces.Add(new Face(new Point3D[] { points[0], points[3], points[7] }));
+            Faces.Add(new Face(new Point3D[] { points[6], points[7], points[3] }));
+            Faces.Add(new Face(new Point3D[] { points[2], points[6], points[3] }));
+            Faces.Add(new Face(new Point3D[] { points[5], points[6], points[2] }));
+            Faces.Add(new Face(new Point3D[] { points[1], points[5], points[2] }));
+            Faces.Add(new Face(new Point3D[] { points[4], points[5], points[1] }));
+            Faces.Add(new Face(new Point3D[] { points[0], points[4], points[1] }));
+            Faces.Add(new Face(new Point3D[] { points[2], points[3], points[0] }));
+            Faces.Add(new Face(new Point3D[] { points[1], points[2], points[0] }));
+            Faces.Add(new Face(new Point3D[] { points[6], points[4], points[7] }));
+            Faces.Add(new Face(new Point3D[] { points[6], points[5], points[4] }));
+
+            // итого 12 = 6х2 faces на box
+        }
+
+        public void ModifyWidth(double width)
+        {
+            Width = width;
+            UpdatePoints();
+        }
+
+        public void ModifyHeight(double height)
+        {
+            Height = height;
+            UpdatePoints();
+        }
+
+        public void ModifyLength(double length)
+        {
+            Length = length;
+            UpdatePoints();
+        }
+
+        public void ModifyBasePoint(Point3D basePoint)
+        {
+            BasePoint = basePoint;
+            UpdatePoints();
+        }
+    }
+}
